@@ -27,7 +27,6 @@ This documentation provides a comprehensive guide to the system's architecture, 
 6. [Best Practices](#best-practices)
 7. [Troubleshooting](#troubleshooting)
 8. [Future Enhancements](#future-enhancements)
-9. [License](#license)
 
 ---
 
@@ -445,31 +444,13 @@ Below are key functions and classes for integrating the ForexPro system.
 
 ---
 
-## License
-The ForexPro Trading System is licensed under the MIT License. See the `LICENSE` file for details.
 
-```
-License
+
 
 Copyright (c) 2025, Kuntahfx 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission is hereby granted, free to everyone however anyone found who will engage in the  selling of this product will face the courts of law this product is meant for personal use to whoever wishes to get an edge over the markets.
+**Disclaimer; Trading comes with large amounts of substantial risks therefore , not suitable for all investors. Risk what u can afford to lose.**
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
 
 ---
 **All kinds of donations for the good of this project are welcomed with gratitude, and if u have benefited of found it useful in any way a word or two as appretiation are enough, and if u are an experienced programmer in MQL5 we can also work together on a high yield project purely MQL5 state of the art. I Great u all fellow AlgoTraders in the name of the creator 🙏**
